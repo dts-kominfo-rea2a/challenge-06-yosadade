@@ -68,6 +68,7 @@ const bacaData = (fnCallBack) => {
     }
   );
 };
+// tugas yosada
 // ! JANGAN DIMODIFIKASI
 module.exports = {
   modifyFile1,
